@@ -1,5 +1,4 @@
 const MAP_FIELDS = {
-  0: ["from", "to", "hash", "blockNumberNormalized"],
   1: ["from", "to"],
   2: "hash",
   3: "blockNumberNormalized",
